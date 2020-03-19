@@ -2,5 +2,5 @@ import React from 'react'
 
 
 
-const SimplerComponent = props => <div onClick ={props.handleClick}> I am just happy. </div>
-export default  SimplerComponent
+const ComponentName  = props => <div onClick ={props.handleClick}> I am just happy. </div>
+export default  ComponentName 
